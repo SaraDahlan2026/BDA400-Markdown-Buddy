@@ -1,0 +1,25 @@
+## Purpose
+This exercise demonstrates basic R syntax by creating variables, performing calculations, and using logical comparisons to manage a simple puppy budget.
+
+## Inputs
+
+The script uses a sample hometown, name, height, number of puppies, puppy price, and a budget of $1,000.
+
+```{r}
+# Exercise 1: Practice with Basic R Syntax
+
+hometown <- "Windsor"
+my_name <- "Alex"
+my_height <- 65
+
+puppies <-3
+puppy_price <- 300
+
+total_cost <- puppies * puppy_price
+too_expensive <- total_cost > 1000
+max_puppies <- 1000 %/% puppy_price
+```
+
+## Outputs
+
+The script calculates the total cost of the puppies, checks if the cost exceeds $1,000, and determines how many puppies can be purchased within the budget.
