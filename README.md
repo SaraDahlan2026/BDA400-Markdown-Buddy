@@ -1,3 +1,5 @@
+**AI Assistance Declaration:** I used ChatGPT (GPT-6) to help organize and format my R project documentation. Prompts used: "Explain what sections a good GitHub README should include," "Help organize my R project documentation," and "Review the Markdown structure and formatting." I verified the outputs by reviewing the Markdown preview and checking the R script in Posit Cloud. All final calculations were done by myself. I am responsible for the accuracy and originality of this work.
+
 # Puppy Budget Project
 
 ## Overview
