@@ -1,3 +1,5 @@
+**AI Assistance Declaration:** I used ChatGPT (GPT-6) to help organize and format my R Markdown documentation. Prompts used: "Suggest Markdown formatting and code block examples," "Improve section organization," and "Check R Markdown formatting." I verified the documentation by reviewing the R Markdown preview and checking the R code in Posit Cloud. All final calculations were done by myself. I am responsible for the accuracy and originality of this work.
+
 ## Purpose
 This exercise demonstrates basic R syntax by creating variables, performing calculations, and using logical comparisons to manage a simple puppy budget.
 
